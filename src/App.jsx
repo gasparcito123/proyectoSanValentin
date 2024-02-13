@@ -19,7 +19,7 @@ function App() {
   },
   {
     id: 1,
-    description: "Piénsalo de nuevo.",
+    description: "Piénsaloassssssssssssssssssssssssssssssssssssssssssssssssssss de nuevo.",
     img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
     ,
